@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contacts>
+	<contact>
+		<name>Joe Bingus</name>
+		<ip>10.0.0.1</ip>
+		<port>101</port>
+	</contact>
+	<contact>
+		<name>Cra Jones</name>
+		<ip>192.168.1.1</ip>
+		<port>5050</port>
+	</contact>
+	<contact>
+		<name>Dolly's Mirror</name>
+		<ip>127.0.0.1</ip>
+		<port>50001</port>
+	</contact>
+</contacts>
